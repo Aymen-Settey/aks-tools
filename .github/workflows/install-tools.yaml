@@ -13,12 +13,12 @@ on:
       rg_name:
         description: "Put the name of the resource group to use"
         required: true
-        default: "studentid-rg-dev"
+        default: "student8-rg-dev"
         type: string
       cluster_name:
         description: "Put the name of the AKS cluster to use"
         required: true
-        default: "studentid-aks-dev"
+        default: "student8-aks-dev"
         type: string
 
 permissions:
