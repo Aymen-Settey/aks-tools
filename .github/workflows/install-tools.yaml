@@ -18,7 +18,7 @@ on:
       cluster_name:
         description: "Put the name of the AKS cluster to use"
         required: true
-        default: "student8-aks-dev"
+        default: "studentid-aks-dev"
         type: string
 
 permissions:
